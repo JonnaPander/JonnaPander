@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Jonna Pander. A Data Science Professional with a background in Environmental Consulting and Information Solutions.  I worked with SQL and SQL Server Management Studio along with other database tools in my last job to process chemical and othe environmental data.  My work also dealt with building dashboards and reports for insights into audits and incidents reports. This deep dive into the world of coding and big data is what lead me to General Assembly's Data Science Immersive which I completed in July 2020. Now I am looking to rejoin to the world of employment with a new career. My primary coding languages are SQL and Python :heart:.
+I'm Jonna Pander. A Data Science Professional with a background in Environmental Consulting and Information Solutions.  I worked with SQL and SQL Server Management Studio along with other database tools in my last job to process chemical and othe environmental data.  My work also dealt with building dashboards and reports for insights into audits and incidents reports. This deep dive into the world of coding and big data is what led me to General Assembly's Data Science Immersive which I completed in July 2020. Now I am looking to rejoin to the world of employment with a new career. My primary coding languages are SQL and Python :heart:.
 
 ## Things I am passionate about
 
@@ -21,3 +21,4 @@ I'm Jonna Pander. A Data Science Professional with a background in Environmental
 - I don't tweet but I use twitter [Twitter](https://twitter.com/JonnaPander)
 - Posts on Medium [Medium](https://medium.com/@jpander)
 - My LinkedIn [LinkedIn](https://www.linkedin.com/in/jonnapander/)
+- Portfolio Website [Git](https://JonnaPander.github.io/)
